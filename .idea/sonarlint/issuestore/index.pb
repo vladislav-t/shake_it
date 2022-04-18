@@ -19,9 +19,3 @@ v
 Fbubbles/src/main/java/com/siddharthks/bubbles/FloatingBubbleTouch.java,f\6\f673d94390186611254a5145662b76dbd7ceae0f
 ~
 Nbubbles/src/main/java/com/siddharthks/bubbles/FloatingBubbleTouchListener.java,6\a\6abb1bf7c839830db2a01c1b33b6f13ef4b29219
-n
->app/src/main/java/com/siddharthks/sampleapp/SimpleService.java,e\a\ea8e8d6c07ba4c69574566813d24f482a0f48b3f
-m
-=app/src/main/java/com/siddharthks/sampleapp/MainActivity.java,5\2\52f23bf5bd819cda6e5323b6c419d9f8a6c68682
-P
- app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e

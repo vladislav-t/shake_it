@@ -3,11 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/PC-Test/Documents/Bubbles-master/app/buglife-android-master/src/main/res/layout/activity_video.xml" value="0.3546875" />
         <entry key="..\:/Users/PC-Test/Documents/Bubbles-master/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
         <entry key="..\:/Users/PC-Test/Documents/Bubbles-master/app/src/main/res/layout/sample_view.xml" value="0.2957427536231884" />
         <entry key="..\:/Users/PC-Test/Documents/Bubbles-master/bubbles/src/main/res/layout/floating_bubble_view.xml" value="0.2957427536231884" />
         <entry key="..\:/Users/PC-Test/Documents/Bubbles-master/bubbles/src/main/res/layout/floating_expandable_view.xml" value="0.2957427536231884" />
         <entry key="..\:/Users/PC-Test/Documents/Bubbles-master/bubbles/src/main/res/layout/floating_remove_bubble_view.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/PC-Test/Documents/Bubbles-master/bugreport/src/main/res/drawable/annotation_tool.xml" value="0.2851851851851852" />
+        <entry key="..\:/Users/PC-Test/Documents/Bubbles-master/bugreport/src/main/res/drawable/circle.xml" value="0.2851851851851852" />
+        <entry key="..\:/Users/PC-Test/Documents/Bubbles-master/bugreport/src/main/res/drawable/ic_stop_white_24dp.xml" value="0.2851851851851852" />
+        <entry key="..\:/Users/PC-Test/Documents/Bubbles-master/bugreport/src/main/res/layout/activity_parameters.xml" value="0.23505434782608695" />
       </map>
     </option>
   </component>

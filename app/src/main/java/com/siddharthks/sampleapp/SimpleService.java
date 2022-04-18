@@ -16,7 +16,6 @@ public class SimpleService extends FloatingBubbleService {
                 .bubbleIcon(ContextCompat.getDrawable(context, R.drawable.web_icon))
                 .removeBubbleIcon(ContextCompat.getDrawable(context, com.siddharthks.bubbles.R.drawable.close_default_icon))
                 .bubbleIconDp(54)
-                .expandableView(getInflater().inflate(R.layout.sample_view, null))
                 .removeBubbleIconDp(54)
                 .paddingDp(4)
                 .borderRadiusDp(0)
