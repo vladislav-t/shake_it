@@ -1,0 +1,19 @@
+
+l
+java:S14501"VRemove the "physics" field and declare it as a local variable in the relevant methods.(Ü´©
+C
+java:S1185p"(Remove this method to simply inherit it.(ºÚÑÒşÿÿÿÿ
+g
+java:S3252›"PUse static access with "android.view.ViewGroup$LayoutParams" for "MATCH_PARENT".(³óšñ
+l
+java:S3252œ"PUse static access with "android.view.ViewGroup$LayoutParams" for "MATCH_PARENT".(âêŠ¹ÿÿÿÿÿ
+g
+java:S3252Š"PUse static access with "android.view.ViewGroup$LayoutParams" for "WRAP_CONTENT".(§™î
+l
+java:S3252‹"PUse static access with "android.view.ViewGroup$LayoutParams" for "WRAP_CONTENT".(ÀÌ´ºøÿÿÿÿ
+N
+java:S1874™"2Remove this use of "TYPE_PHONE"; it is deprecated.(Š£íŸıÿÿÿÿ
+=
+java:S2185Ú"&Remove this silly call to "Math.round"(âÛĞ
+^
+java:S2184Ú"GCast one of the operands of this multiplication operation to a "float".(âÛĞ

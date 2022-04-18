@@ -1,0 +1,27 @@
+
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+…
+Ububbles/src/main/java/com/siddharthks/bubbles/DefaultFloatingBubbleTouchListener.java,8\2\8289009a24228d551a80fe012e7097988b133a55
+y
+Ibubbles/src/main/java/com/siddharthks/bubbles/FloatingBubbleAnimator.java,9\d\9d46c4b0ee7446e65a59aa2b8e3bf2d84dbb1812
+w
+Gbubbles/src/main/java/com/siddharthks/bubbles/FloatingBubbleConfig.java,d\e\dee89beea2967ea7aea9c5ff6183bf1d9ea371bf
+w
+Gbubbles/src/main/java/com/siddharthks/bubbles/FloatingBubbleLogger.java,3\6\365ac5997aefb0382d1e40fb4f32beb0a75119ff
+|
+Lbubbles/src/main/java/com/siddharthks/bubbles/FloatingBubblePermissions.java,f\5\f56fe4b150dc72c0b6045f6aab9c2e82ee29b3d4
+x
+Hbubbles/src/main/java/com/siddharthks/bubbles/FloatingBubblePhysics.java,5\2\52042cb124f4240cb80bf79dcc74595aeb47420c
+x
+Hbubbles/src/main/java/com/siddharthks/bubbles/FloatingBubbleService.java,2\7\271a4a347e03a491f328547db1d483c0e45798aa
+v
+Fbubbles/src/main/java/com/siddharthks/bubbles/FloatingBubbleTouch.java,f\6\f673d94390186611254a5145662b76dbd7ceae0f
+~
+Nbubbles/src/main/java/com/siddharthks/bubbles/FloatingBubbleTouchListener.java,6\a\6abb1bf7c839830db2a01c1b33b6f13ef4b29219
+n
+>app/src/main/java/com/siddharthks/sampleapp/SimpleService.java,e\a\ea8e8d6c07ba4c69574566813d24f482a0f48b3f
+m
+=app/src/main/java/com/siddharthks/sampleapp/MainActivity.java,5\2\52f23bf5bd819cda6e5323b6c419d9f8a6c68682
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e

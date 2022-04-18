@@ -1,0 +1,15 @@
+
+w
+java:S1450#"\Remove the "lastTouchTime" field and declare it as a local variable in the relevant methods.(Øò²´üÿÿÿÿ
+h
+java:S3776C"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(•¨–¦
+<	java:S131D""Add a default case to this switch.(¥–Þ€øÿÿÿÿ
+=	java:S131Õ""Add a default case to this switch.(†‹¥‘üÿÿÿÿ
+
+java:S1186ú"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Àê°üÿÿÿÿ
+l
+java:S1450ñ"URemove the "logger" field and declare it as a local variable in the relevant methods.(ƒ«íš
+A
+java:S1068ñ"*Remove this unused "logger" private field.(ƒ«íš
+W
+java:S2184y"ACast one of the operands of this division operation to a "float".(ýü—Í
